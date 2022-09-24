@@ -1,4 +1,4 @@
-// scroll
+// scroll //
 
 let animado = document.querySelectorAll(".animado");
 
