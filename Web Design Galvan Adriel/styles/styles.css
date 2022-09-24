@@ -293,7 +293,7 @@ footer .end {
 
 /* Media queries */
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
     h1, h2 {
         width: 100%;
         align-items: center;
@@ -326,23 +326,23 @@ footer .end {
     }
 
     .grid {
-        padding: 0 50px;
+        padding: 0 10%;
         width: 80%;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content:space-around;
+        justify-content: center;
         align-items: center;
         align-content: center;
     }
 
     .iconos2{
-        padding: 0 50px;
+        padding: 0 10%;
         width: 80%;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content:space-around;
+        justify-content:center;
         align-items: center;
         align-content: center;
     }
