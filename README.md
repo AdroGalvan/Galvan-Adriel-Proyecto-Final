@@ -3,10 +3,9 @@
 Proyecto Portfolio
 
 [https://cheerful-dragon-37e1d8.netlify.app/](Netify)
-
 [https://adrogalvan.github.io/Galvan_Adriel_Proyecto_Final/](Git Pages) 
 
-Intro
+Intro 
 
 El proyecto consiste en contruir un portfolio online. Posee 5 páginas/secciones: Home, Skills, Education, Portfolio y Contact. La idea es que sea un portfolio de presentacion, conocimiento y contacto con la persona y lo mas clean / minimalista posible.
 
