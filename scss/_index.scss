@@ -1,0 +1,70 @@
+// efecto maquina de escribir index
+
+span {
+    color: #EDE4C1;
+    margin: 0px 0px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    position: relative;
+}
+
+span::after {
+    content: "";
+    border-left: 3px solid black;
+    background-color: #222C3B;
+    right: 0;
+    height: 100%;
+    position: absolute;
+    animation: typing 3s infinite alternate steps(20);
+}
+
+@keyframes typing {
+    from {
+        width: 94%;
+    }
+    to {
+        width: 0%;
+    }
+}
+
+// banner img index 
+
+.banner img {
+    width: 100%;
+}
+
+
+// main index
+
+.index section {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    text-align: left ;
+    margin: 80px 80px;
+    padding: 10px 100px;
+    letter-spacing: 0.08em;
+    color: #EDE4C1;
+}
+
+.index section div {
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.index section a {
+    text-decoration: none;
+    color: #EDE4C1;
+    padding: 6px 50px;
+    border: solid #ede4c1 1px;
+    border-radius: 6px;
+    background-color: #364356;
+}
+
+
+main section div p {
+    margin: 30px 0px;
+}
