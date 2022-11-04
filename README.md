@@ -2,7 +2,7 @@
 
 Proyecto Portfolio
 
-###### [Netify](https://cheerful-dragon-37e1d8.netlify.app/)
+###### [Netify](https://galvan-adriel-proyecto-final.netlify.app/)
 
 ###### [Github Pages](https://adrogalvan.github.io/Galvan_Adriel_Proyecto_Final/)
 
